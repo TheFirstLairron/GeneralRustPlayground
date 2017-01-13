@@ -1,0 +1,6 @@
+[package]
+name = "general_playground"
+version = "0.1.0"
+authors = ["TheFirstLairron <zrwall@hotmail.com>"]
+
+[dependencies]
